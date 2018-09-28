@@ -1,2 +1,2 @@
-# Logistic-Regression-using-pyspark
+# LinearRegression-using-pyspark
 spark ML
